@@ -68,7 +68,7 @@ const ContactSection = () => {
                 </div>
                 <div className="contact-text">
                   <h4>Address</h4>
-                  <p>123 Travel Street, Adventure City</p>
+                  <p>Newton School of Technology</p>
                 </div>
               </div>
               
@@ -80,7 +80,7 @@ const ContactSection = () => {
                 </div>
                 <div className="contact-text">
                   <h4>Email</h4>
-                  <p>hello@triptailor.com</p>
+                  <p>maiHuGian@gmail.com</p>
                 </div>
               </div>
               
@@ -92,7 +92,7 @@ const ContactSection = () => {
                 </div>
                 <div className="contact-text">
                   <h4>Phone</h4>
-                  <p>+1 (123) 456-7890</p>
+                  <p>+91 9259540810</p>
                 </div>
               </div>
             </div>
@@ -106,6 +106,7 @@ const ContactSection = () => {
                   type="text" 
                   id="name" 
                   name="name" 
+                  placeholder='Enter your name....'
                   value={formData.name}
                   onChange={handleChange}
                   required 
@@ -116,6 +117,7 @@ const ContactSection = () => {
                 <label htmlFor="email">Email Address</label>
                 <input 
                   type="email" 
+                  placeholder='Enter your email address....'
                   id="email" 
                   name="email" 
                   value={formData.email}
@@ -127,7 +129,8 @@ const ContactSection = () => {
               <div className="form-group">
                 <label htmlFor="message">Message</label>
                 <textarea 
-                  id="message" 
+                  id="message"
+                  placeholder='Enter your message....' 
                   name="message" 
                   rows="5"
                   value={formData.message}

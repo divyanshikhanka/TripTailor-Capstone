@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import './Navbar.css';
 
+// eslint-disable-next-line react/prop-types
 const Navbar = ({ scrolled }) => {
   const [menuOpen, setMenuOpen] = useState(false);
 
