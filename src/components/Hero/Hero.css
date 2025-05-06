@@ -72,7 +72,7 @@
 .hero-subtitle {
   font-size: 1.2rem;
   margin-bottom: var(--spacing-xl);
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 63, 105, 0.9);
   animation: fadeUp 1s ease-out 0.2s forwards;
   opacity: 0;
 }
