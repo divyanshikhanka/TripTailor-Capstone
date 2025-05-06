@@ -17,11 +17,11 @@ const AboutUs = () => {
           </div>
           
           <div className="about-text">
-            <h3>At Trip Tailor, we believe that every traveler deserves a journey that's uniquely theirs.</h3>
+            <h3>At Trip Tailor, we believe that every traveler deserves a journey that is uniquely theirs.</h3>
             
-            <p>Whether you're dreaming of sun-kissed beaches, bustling cityscapes, or serene mountain retreats, our platform helps you discover destinations that perfectly match your vibe, budget, and adventure style.</p>
+            <p>Whether you are dreaming of sun-kissed beaches, bustling cityscapes, or serene mountain retreats, our platform helps you discover destinations that perfectly match your vibe, budget, and adventure style.</p>
             
-            <p>We go beyond typical travel searches — our smart filters and personalized recommendations make planning your next escape effortless and exciting. From hidden gems to world-famous spots, we're here to guide you toward your perfect getaway.</p>
+            <p>We go beyond typical travel searches — our smart filters and personalized recommendations make planning your next escape effortless and exciting. From hidden gems to world-famous spots, we are here to guide you toward your perfect getaway.</p>
             
             <p>Start exploring with us and turn your travel dreams into unforgettable memories.</p>
             
