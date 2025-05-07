@@ -17,7 +17,7 @@ const AboutUs = () => {
           </div>
           
           <div className="about-text">
-            <h3>At Trip Tailor, we believe that every traveler deserves a journey that is uniquely theirs.</h3>
+            <h3>At Trip Tailor, we believe that every traveller deserves a journey that is uniquely theirs.</h3>
             
             <p>Whether you are dreaming of sun-kissed beaches, bustling cityscapes, or serene mountain retreats, our platform helps you discover destinations that perfectly match your vibe, budget, and adventure style.</p>
             
